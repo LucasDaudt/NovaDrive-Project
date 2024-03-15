@@ -85,3 +85,4 @@ We are embarking on the migration of a PostgreSQL database to a Snowflake wareho
 | 4           | WorkMaster      | Camionete Média        | 280000.00 | 2024-01-28 19:58:27.84701+00 | 2024-01-28 19:58:27.84701+00 |
 | 5           | DoubleDuty      | Camionete Cabine Dupla | 320000.00 | 2024-01-28 19:58:27.84701+00 | 2024-01-28 19:58:27.84701+00 |
 
+## Teste
